@@ -1,6 +1,6 @@
 <h1 align="center">𝗣𝗔𝗧𝗥𝗢𝗡-𝗠𝗗 𝗕𝗢𝗧<br></h1>
 <p align="center">
-<img src="https://i.imgur.com/XnKn6H3.jpeg" height="300" />
+<img src="https://ibb.co/7NZ7k97g" height="300" />
 </p>
 
 <p align="center">
